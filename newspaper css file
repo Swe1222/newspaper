@@ -1,0 +1,6 @@
+body{
+background-color:lightslategrey;}
+div{color:white;
+column-count:3;
+column-gap:10px;text-align-last:left;
+column-rule:3px solid white ;}
